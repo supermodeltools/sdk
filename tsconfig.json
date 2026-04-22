@@ -7,7 +7,9 @@
     "outDir": "dist",
     "typeRoots": [
       "node_modules/@types"
-    ]
+    ],
+    "ignoreDeprecations": "6.0",
+    "rootDir": "./src"
   },
   "exclude": [
     "dist",
