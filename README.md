@@ -10,7 +10,7 @@ Generate code graphs, dependency analysis, and domain models from your source co
 npm install @supermodeltools/sdk
 ```
 
-Get your API key at [supermodeltools.com/trial](https://supermodeltools.com/trial).
+**Save 40%+ on agent token costs — start free → [supermodeltools.com/trial](https://supermodeltools.com/trial)**
 
 ## Quick Start
 
@@ -251,7 +251,7 @@ import type {
 
 ## Authentication
 
-Get your API key by starting a free trial at [supermodeltools.com/trial](https://supermodeltools.com/trial).
+**Save 40%+ on agent token costs — start free → [supermodeltools.com/trial](https://supermodeltools.com/trial)**
 
 ```typescript
 const api = new DefaultApi(new Configuration({
@@ -300,7 +300,7 @@ const client = new SupermodelClient(api, {
 
 ## Links
 
-- [Start free trial](https://supermodeltools.com/trial)
+- [Save 40%+ on tokens — start free](https://supermodeltools.com/trial)
 - [API Documentation](https://docs.supermodeltools.com)
 - [GitHub Repository](https://github.com/supermodeltools/supermodel-public-api)
 - [Dashboard](https://dashboard.supermodeltools.com)
