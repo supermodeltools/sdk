@@ -44,6 +44,7 @@ export * from './ImpactAnalysisResponseAsync';
 export * from './ImpactGlobalMetrics';
 export * from './ImpactResult';
 export * from './ImpactTarget';
+export * from './ImpactValidationFile';
 export * from './JobStatus';
 export * from './ModelError';
 export * from './NearestTestedCaller';
